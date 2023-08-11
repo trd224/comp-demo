@@ -1,0 +1,82 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "studentEmail": "johndoe@example.com",
+      "course": "Bsc Software Engineering",
+      "yearOfStudy": 2,
+      "registrationNumber":"lkl345"
+    },
+    {
+      "firstName": "Test2",
+      "lastName": "Test2",
+      "studentEmail": "test@example.com",
+      "course": "Bsc Computer Science",
+      "yearOfStudy": 4,
+      "registrationNumber":"lkl3585"
+    },
+    {
+        "firstName": "Test3",
+        "lastName": "Doe",
+        "studentEmail": "johndoe@example.com",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber":"lkl345"
+      },
+      {
+        "firstName": "Test4",
+        "lastName": "Test2",
+        "studentEmail": "test@example.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber":"lkl3585"
+      },
+      {
+        "firstName": "Test5",
+        "lastName": "Doe",
+        "studentEmail": "johndoe@example.com",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber":"lkl345"
+      },
+      {
+        "firstName": "Test6",
+        "lastName": "Test2",
+        "studentEmail": "test@example.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber":"lkl3585"
+      },
+      {
+        "firstName": "Test7",
+        "lastName": "Doe",
+        "studentEmail": "johndoe@example.com",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber":"lkl345"
+      },
+      {
+        "firstName": "Test8",
+        "lastName": "Test2",
+        "studentEmail": "test@example.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber":"lkl3585"
+      },
+      {
+        "firstName": "Test9",
+        "lastName": "Doe",
+        "studentEmail": "johndoe@example.com",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber":"lkl345"
+      },
+      {
+        "firstName": "Test10",
+        "lastName": "Test2",
+        "studentEmail": "test@example.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber":"lkl3585"
+      }
+  ]
