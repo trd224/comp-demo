@@ -28,6 +28,14 @@ import { PdfComponent } from './components/pdf/pdf.component';
 import { ChartComponent } from './components/chart/chart.component';
 import { MomentComponent } from './components/moment/moment.component';
 import { FormArrayComponent } from './components/form-array/form-array.component';
+import { CombineLatestComponent } from './components/combine-latest/combine-latest.component';
+import { GetDataComponent } from './components/get-data/get-data.component';
+import { EpansionPanelComponent } from './components/epansion-panel/epansion-panel.component';
+import { ChangeDetectionComponent } from './components/change-detection/change-detection.component';
+import { ChangeDetectionChildComponent } from './components/change-detection-child/change-detection-child.component';
+import { TabComponent } from './components/tab/tab.component';
+import { DragDropComponent } from './components/drag-drop/drag-drop.component';
+import { DragDropDirective } from './directives/drag-drop.directive';
 
 @NgModule({
   declarations: [
@@ -52,7 +60,15 @@ import { FormArrayComponent } from './components/form-array/form-array.component
     PdfComponent,
     ChartComponent,
     MomentComponent,
-    FormArrayComponent
+    FormArrayComponent,
+    CombineLatestComponent,
+    GetDataComponent,
+    EpansionPanelComponent,
+    ChangeDetectionComponent,
+    ChangeDetectionChildComponent,
+    TabComponent,
+    DragDropComponent,
+    DragDropDirective
   ],
   imports: [
     BrowserModule,

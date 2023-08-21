@@ -17,6 +17,7 @@ import {MatGridListModule} from '@angular/material/grid-list';
 import {MatSelectModule} from '@angular/material/select';
 import {MatSortModule} from '@angular/material/sort';
 import {MatDialogModule} from '@angular/material/dialog';
+import {MatExpansionModule} from '@angular/material/expansion';
 
 
 const matModules = [
@@ -38,7 +39,8 @@ const matModules = [
   MatGridListModule,
   MatSelectModule,
   MatSortModule,
-  MatDialogModule
+  MatDialogModule,
+  MatExpansionModule
 ]
 
 @NgModule({

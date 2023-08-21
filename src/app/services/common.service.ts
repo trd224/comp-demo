@@ -20,6 +20,10 @@ export class CommonService {
     return this.http.get('https://jsonplaceholder.typicode.com/albums');
   }
 
+  postAlbums(url:any, data:any){
+    return this.http.post(url, data);
+  }
+
   getStudentsInformation(): Observable<any[]>{
     return this.http.get<any[]>(`${environment.baseURL}student.json`);
   }
